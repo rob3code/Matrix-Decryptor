@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 
-const BACKEND_URL = 'https://crypto-mines-backend.onrender.com';
+const BACKEND_URL = 'https://tower-game-backend-xi.vercel.app';
 
 export default function DecryptionTool() {
   const [inputHash, setInputHash] = useState('');
