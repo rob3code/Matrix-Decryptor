@@ -1,8 +1,8 @@
 # 🕵️‍♂️ Matrix Decryptor v2.4
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Version](https://img.shields.io/badge/Version-2.4-blue.svg)](https://github.com/your-username/crypto-mines-predictor/releases)
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fyour-username%2Fcrypto-mines-predictor)
+[![Version](https://img.shields.io/badge/Version-2.4-blue.svg)]([https://github.com/rob3code/Matrix-Decryptor](https://github.com/rob3code/Matrix-Decryptor/releases)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frob3code%2FMatrix-Decryptor/)
 
 > An open-source **Hash Interceptor** designed to parse and decrypt localized seed matrices from specific Web3 and Telegram gaming environments.
 
@@ -31,7 +31,7 @@ This tool utilizes **Hash Interception**.
 
 You can deploy your own private instance of this decryptor to avoid rate limits on the public API.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fyour-username%2Fcrypto-mines-predictor)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frob3code%2FMatrix-Decryptor/)
 
 ---
 
@@ -41,7 +41,7 @@ To run the decryptor on your local machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/rob3code/crypto-mines-predictor.git
+   git clone https://github.com/rob3code/Matrix-Decryptor.git
 
 **Install dependencies:**
 npm install
