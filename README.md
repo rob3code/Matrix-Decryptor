@@ -48,12 +48,11 @@ Install dependencies: npm install
 Launch the local interface: npm run dev
 
 
+## Architecture
 
-\## Architecture
-
-\* \*\*Frontend UI:\*\* React + Tailwind CSS
-
-\* \*\*Animation Framework:\*\* Framer Motion (Required for visual matrix rendering)
-
-\* \*\*API Protocol:\*\* REST over HTTPS
+| Component | Technology | Description |
+| :--- | :--- | :--- |
+| **Frontend UI** | React + Tailwind CSS | Responsive and modern user interface. |
+| **Animation** | Framer Motion | Required for visual matrix rendering. |
+| **API Protocol** | REST over HTTPS | Secure communication layer. |
 
