@@ -44,11 +44,9 @@ To run the decryptor on your local machine:
    git clone https://github.com/your-username/crypto-mines-predictor.git
 
 **Install dependencies:**
- ```bash
 npm install
 
 **Launch the local interface:**
- ```bash
 npm run dev
 
 
